@@ -130,4 +130,4 @@ curl <node-ip-from-minikube>:30000
 
 **You have reached the end!**
 
-# project2
+# Assignment2
